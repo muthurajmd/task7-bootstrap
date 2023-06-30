@@ -1,0 +1,26 @@
+*{
+	margin:0px;
+	padding:0;
+	box-sizing:border-box;
+}
+.background{
+	background-color:#f4f4f4c4!important;
+}
+form input{
+	background-color:#f4f4f4c4!important;
+}
+.lh-lg{
+	list-style-type:none;
+}
+.lh-lg a{
+	text-decoration:none;
+	color:black;
+} 
+.latest::after{
+	content:"";
+	border-top:1.5px solid gray;
+	position:absolute;
+	top:20px;
+	left:200px;
+	width:870px;
+	
